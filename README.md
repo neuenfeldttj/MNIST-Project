@@ -167,5 +167,6 @@ Weight Decay: 0.001
 ![Trial 5](./plots/trial_5.png)
 I'm quite happy with this. I don't think I need to experiment with more layers because it will only add more parameters making it longer to run and could overfit.
 
-I decided to make a quick interface to see the model in action. I used tkinter to make a GUI where you can draw a number and have the model predict. It does fairly well with the numbers and it's cool to see it in action. It has a hard time predicting number 9. 
+I decided to make a quick interface to see the model in action. I used tkinter to make a GUI where you can draw a number and have the model predict. It does fairly well with the numbers and it's cool to see it in action. It has a hard time predicting number 9.
+
 ![Results](./plots/mnist_results.gif)
